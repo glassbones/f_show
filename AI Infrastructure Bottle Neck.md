@@ -12,6 +12,9 @@ This means:
 Even if you have thousands of Blackwells or Rubins,
 they can’t run at full speed because the rest of the system can’t keep up.
 
+<img width="1024" height="559" alt="image_48c6143b-ffa0-41b5-9c22-2f6515a05f55" src="https://github.com/user-attachments/assets/4ea84053-2bab-4887-b0fd-93e4965c9ef1" />
+
+
 2. The real choke points are now three things:
 
 A. HBM (High Bandwidth Memory)
