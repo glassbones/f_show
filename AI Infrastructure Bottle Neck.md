@@ -41,7 +41,7 @@ You don’t see them in flashy keynotes, but they dictate what can actually be b
 
 ---
 
-Why these bottlenecks exist (in plain language)
+Why these bottlenecks exist..
 
 GPUs evolved faster than the infrastructure that feeds them.
 
@@ -61,12 +61,9 @@ We’ve essentially built “super‑engines” without building the rest of the
 
 ---
 
-O — ORIENT (What These Observations Mean)
-
-Here’s the critical insight:
+What these observations might mean:
 
 > The value in AI is shifting from compute → to the infrastructure that enables compute.
-
 
 
 Everyone already owns NVIDIA.
@@ -100,32 +97,11 @@ This is where Amkor, ASE, and material suppliers gain leverage.
 
 ---
 
-How to explain this simply to anyone familiar with GPUs:
-
-> Phase 1: Buy GPUs → stock explodes (2023–2024)
-Phase 2: You plug them in → networks choke, memory bottlenecks, thermal limits (2025–2027)
-Phase 3: Market realizes the real constraint isn’t compute — it’s bandwidth + packaging
-Phase 4: Capital rotates into the companies that solve the bottlenecks
-
-Here is PART TWO — DECIDE + ACT
-This is the critical‑path OODA continuation, written with the same clean, high‑density, no‑bullshit style as Part One.
-
-
----
-
-OODA — PART II (DECIDE + ACT)
-
 “Given the bottlenecks, what does a rational strategist do next?”
 
-
----
-
-D — DECIDE
-
-The Critical Path Insight (the thing most investors haven’t internalized yet):
+what are most investors internalizing now:
 
 > The next wave of AI value will accrue to the companies that remove the bottlenecks, not the companies that make the GPUs.
-
 
 
 Everyone understands GPUs.
@@ -161,8 +137,7 @@ We’re sitting at the doorstep of Phase 2 right now.
 
 
 ---
-
-A — ACT (THE BETS)
+## Actionables:
 
 These are the specific, actionable bets aligned with where the ball is actually moving.
 
@@ -246,4 +221,4 @@ The next phase is fixing the memory, bandwidth, and packaging bottlenecks that a
 These companies are the ones who solve that problem.”
 
 These bets are not about hype.
-They’re about physics, manufacturing reality, and U.S. industrial policy.
+They’re about the physical manufacturing reality, and U.S. industrial policy.
